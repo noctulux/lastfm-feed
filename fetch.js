@@ -2,7 +2,7 @@ import fs from "fs";
 import fetch from "node-fetch";
 
 const USERNAME = "avechuu";
-const API_KEY = "YOUR_LASTFM_API_KEY";
+const API_KEY = "543fffd28f8ca2263455b3c46cd5df95";
 
 const url = `https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${USERNAME}&api_key=${API_KEY}&format=json&limit=1`;
 
