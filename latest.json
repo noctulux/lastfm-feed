@@ -1,11 +1,18 @@
 {
   "tracks": [
     {
+      "name": "Gravits",
+      "artist": "Crayon Case",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5ad550480ad951307340a03b6a0c37ef.jpg",
+      "nowPlaying": true,
+      "timestamp": null
+    },
+    {
       "name": "because,",
       "artist": "Crayon Case",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
-      "nowPlaying": true,
-      "timestamp": null
+      "nowPlaying": false,
+      "timestamp": 1772281542
     },
     {
       "name": "Gravits",
@@ -27,13 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/eb11420f75dff57a9671be83c7317949.jpg",
       "nowPlaying": false,
       "timestamp": 1772216481
-    },
-    {
-      "name": "byar",
-      "artist": "T. Rucira",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/e52e27e34423b6c75999299a25ddbdc3.jpg",
-      "nowPlaying": false,
-      "timestamp": 1772216247
     }
   ]
 }
