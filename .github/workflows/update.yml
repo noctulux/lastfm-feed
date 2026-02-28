@@ -19,7 +19,9 @@ jobs:
       - run: npm install
 
       - run: node fetch.js
-
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          
       - name: Deploy to Neocities
         run: |
           curl -v -u "velosophy:${{ secrets.NEOCITIES_API_KEY }}" \
