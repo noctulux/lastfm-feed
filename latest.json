@@ -1,6 +1,13 @@
 {
   "tracks": [
     {
+      "name": "Another Secret",
+      "artist": "Nastyona",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/dacd23a9108968bb86ef6b7732801d14.png",
+      "nowPlaying": true,
+      "timestamp": null
+    },
+    {
       "name": "ma chérie ~愛しい君へ~",
       "artist": "Malace Mizer",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/5ea6013bf482e261a0c10bae0bc24db8.jpg",
@@ -27,13 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/7d9ce2cf0e0587a3c0803f6366b427f1.jpg",
       "nowPlaying": false,
       "timestamp": 1772383062
-    },
-    {
-      "name": "意識",
-      "artist": "Sheena Ringo",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/d6b634a06e2d0a1092cc3a0a4d58096d.jpg",
-      "nowPlaying": false,
-      "timestamp": 1772382900
     }
   ]
 }
