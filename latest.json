@@ -1,6 +1,13 @@
 {
   "tracks": [
     {
+      "name": "because,",
+      "artist": "Crayon Case",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
+      "nowPlaying": false,
+      "timestamp": 1772372912
+    },
+    {
       "name": "Neu Automobile",
       "artist": "Crayon Case",
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
@@ -27,13 +34,6 @@
       "image": "https://lastfm.freetls.fastly.net/i/u/174s/b91258f1a87ce54e37fa0a3fb9f69562.jpg",
       "nowPlaying": false,
       "timestamp": 1772283229
-    },
-    {
-      "name": "Lyra Intro",
-      "artist": "Crayon Case",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/1b014f9ff48828ac062c9af0ae853fa4.png",
-      "nowPlaying": false,
-      "timestamp": 1772283117
     }
   ]
 }
