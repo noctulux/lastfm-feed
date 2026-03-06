@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "木漏れ日のエール",
-      "artist": "トウカイテイオー (CV. Machico)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+      "name": "ぼくらのブルーバードデイズ - 2021 Remastered Version",
+      "artist": "ウオッカ (CV. 大橋彩香)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5c5cb0daeaf5143c13e0d2c6358601bd.jpg",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "Enjoy and Join",
-      "artist": "ミホノブルボン (CV. 長谷川育美)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f48bcbb6d51c372440e247186f3a8e9e.jpg",
+      "name": "春空BLUE - 2021 Remastered Version",
+      "artist": "ウイニングチケット (CV. 渡部優衣)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/bfa46bfd782fc40e3927d7c40f92d4e7.jpg",
       "nowPlaying": false,
-      "timestamp": 1772811785
+      "timestamp": 1772813897
     },
     {
-      "name": "Find My Only Way (Off Vocal) - 2021 Remastered Version",
-      "artist": "スピカ [スペシャルウィーク (CV. 和氣あず未)、サイレンススズカ (CV. 高野麻里佳)、トウカイテイオー (CV. Machico)、ウオッカ (CV. 大橋彩香)、ダイワスカーレット (CV. 木村千咲)、ゴールドシップ (CV. 上田 瞳)、メジロマックイーン (CV. 大西沙織)]",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2b8d7739a9b9e055250b8f0000922e48.jpg",
+      "name": "SEVEN - 2021 Remastered Version",
+      "artist": "シンボリルドルフ (CV. 田所あずさ)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/af1e4411f88b6708d2d7177078c48526.jpg",
       "nowPlaying": false,
-      "timestamp": 1772811485
+      "timestamp": 1772813390
     },
     {
-      "name": "Silent Star - 2021 Remastered Version",
-      "artist": "サイレンススズカ (CV. 高野麻里佳)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/fc9c0693f549bd79ca738b72f5fcca09.jpg",
-      "nowPlaying": false,
-      "timestamp": 1772811190
-    },
-    {
-      "name": "ありがとう、神様 - 2021 Remastered Version",
+      "name": "ENDLESS DREAM!! - 2021 Remastered Version",
       "artist": "スペシャルウィーク (CV. 和氣あず未)",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/982e20267077e81412f6e3c554b0e803.jpg",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/c13d9cc1f74d37926529d278ca9fd5a8.jpg",
       "nowPlaying": false,
-      "timestamp": 1772810945
+      "timestamp": 1772813159
+    },
+    {
+      "name": "七色の景色 - 2021 Remastered Version",
+      "artist": "サイレンススズカ (CV. 高野麻里佳)",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/71f92cb827570edbed323d089a7b1e68.jpg",
+      "nowPlaying": false,
+      "timestamp": 1772812907
     }
   ]
 }
