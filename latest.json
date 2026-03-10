@@ -1,39 +1,39 @@
 {
   "tracks": [
     {
-      "name": "Better (feat. Yo Gotti)",
-      "artist": "Meghan Trainor",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/655022d0f950c5c52a9e173540f16dd4.jpg",
+      "name": "Is This Love??",
+      "artist": "Solya",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/32ca4b8b3087d7f8b19579ccd90f0dff.jpg",
       "nowPlaying": true,
       "timestamp": null
     },
     {
-      "name": "NO",
-      "artist": "Meghan Trainor",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/655022d0f950c5c52a9e173540f16dd4.jpg",
+      "name": "Just Like Her (feat. KASANE TETO & Chis-A)",
+      "artist": "Kareki Kashiwagi",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
       "nowPlaying": false,
-      "timestamp": 1773142814
+      "timestamp": 1773143753
     },
     {
-      "name": "What the Hell",
-      "artist": "Avril Lavigne",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/94b17ad8f8b3887f281ad93b5e5d315d.jpg",
+      "name": "Trillium (feat. Sara)",
+      "artist": "S3RL",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5bc3f96515d1916cf65f7ba534dbc37b.jpg",
       "nowPlaying": false,
-      "timestamp": 1773079394
+      "timestamp": 1773143558
     },
     {
-      "name": "Don't Cha",
-      "artist": "The Pussycat Dolls",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/7c9048f891364c56a93ebe77be62dad6.png",
+      "name": "Go Away",
+      "artist": "Weezer",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/f9a1b19e001fe2adb697f55df60aacdd.png",
       "nowPlaying": false,
-      "timestamp": 1773079121
+      "timestamp": 1773143362
     },
     {
-      "name": "Like I'm Gonna Lose You (feat. John Legend)",
-      "artist": "Meghan Trainor",
-      "image": "https://lastfm.freetls.fastly.net/i/u/174s/5a888c5b75a2f6e562f0e8610fdc1eda.jpg",
+      "name": "I Wanna Be Your Boyfriend",
+      "artist": "Hot Freaks",
+      "image": "https://lastfm.freetls.fastly.net/i/u/174s/4a87bbe996e8413689a29b83a4ed3930.jpg",
       "nowPlaying": false,
-      "timestamp": 1773078895
+      "timestamp": 1773143204
     }
   ]
 }
